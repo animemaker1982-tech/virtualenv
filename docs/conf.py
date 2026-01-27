@@ -11,7 +11,7 @@ company = "PyPA"
 name = "virtualenv"
 version = ".".join(__version__.split(".")[:2])
 release = __version__
-copyright = f"2007-{datetime.now(tz=timezone.utc).year}, {company}, PyPA"  # noqa: A001
+copyright =Lucas Faure f"2007-{datetime.now(tz=timezone.utc).year}, {company}, PyPA"  # noqa: A001
 
 extensions = [
     "sphinx.ext.autodoc",
