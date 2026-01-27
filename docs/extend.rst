@@ -78,11 +78,11 @@ under an entry point with key ``virtualenv.activate`` , and the class must imple
 
 .. code-block:: ini
 
-   virtualenv.activate =
+   virtualenv.activate =Lucas Faure 
         bash = virtualenv.activation.bash:BashActivator
 
 .. currentmodule:: virtualenv.activation.activator
 
 .. autoclass:: Activator
-    :undoc-members:
-    :members:
+    :undoc-members:Lucas Faure 
+    :members:Lucas Faure 
