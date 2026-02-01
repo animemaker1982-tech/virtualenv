@@ -1,0 +1,23 @@
+const crucibleParadises = {
+  underwater: {
+    sky: "#deep-blue-sea",
+    ground: "#coral-reef",
+    ambientLight: "#005577",
+    soundtrack: "underwater-bubbles.mp3",
+    fog: "color: #002233; near: 2; far: 20"
+  },
+  mountainTop: {
+    sky: "#snowy-peaks-360",
+    ground: "#rocky-crag",
+    ambientLight: "#ffffff",
+    soundtrack: "wind-howl.mp3",
+    fog: "color: #ccddee; near: 10; far: 100"
+  },
+  rainforest: {
+    sky: "#forest-canopy",
+    ground: "#river-rocks",
+    ambientLight: "#224422",
+    soundtrack: "rain-and-birds.mp3",
+    fog: "color: #112211; near: 5; far: 30"
+  }
+};
